@@ -18,3 +18,7 @@ Some marketplaces doesn't allowed to sell PPE products including:
 - Amazon
 
 Sometimes, it is weired that they are still allow someone to sell the PPE products.
+
+## PPE White List 
+
+- [Ecwid](http://open.ecwid.com/ZmCWc)
