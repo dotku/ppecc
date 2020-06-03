@@ -9,3 +9,12 @@ Project N95 is a non-profit organization that build the bridge to connect manufa
 
 - [ECWid](http://open.ecwid.com/ZmCWc)
 ECWid is the only store I found that allowed to sell EPP in the U.S..
+
+## PPE Black List
+Some marketplaces doesn't allowed to sell PPE products including:
+
+- Etsay
+- Ebay
+- Amazon
+
+Sometimes, it is weired that they are still allow someone to sell the PPE products.
