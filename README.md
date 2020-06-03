@@ -19,6 +19,11 @@ Some marketplaces doesn't allowed to sell PPE products including:
 
 Sometimes, it is weired that they are still allow someone to sell the PPE products.
 
+## PPE Restrict List
+There is some places that you could sale PPE product with slightly restricted rule.
+
+- Nextdoor
+
 ## PPE White List 
 
 - [Ecwid](http://open.ecwid.com/ZmCWc)
